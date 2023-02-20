@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Version>1.0.0</Version>
+    <Company>Jonas Machado</Company>
+    <Authors>Jonas Machado</Authors>
+    <Product>Local Date Time</Product>
+    <Description>Re-implementação de uma biblioteca de classes, para expor uma forma de calcular datas. 
+O pacote consiste na resolução da prova técnica da empresa CWI.</Description>
+    <Copyright>Jonas Machado, Licença MIT - Uso livre.</Copyright>
+    <PackageProjectUrl>https://github.com/jonasmachado/CWI</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/jonasmachado/CWI</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageReleaseNotes>Criação do pacote</PackageReleaseNotes>
+  </PropertyGroup>
+
+</Project>
