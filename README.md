@@ -6,7 +6,6 @@ Repositório dedicado a resolução da prova técnica CWI, que foi aplicada em 2
 ## Histórico
 
 - Resolução nova criada em 2023.
-- Resultado inicial da prova em 2017, Reprovado.
 - Resolução inicial da prova técnica em 2017.
 
 ## Autores
